@@ -5,6 +5,6 @@ B: Does it comes with coke or fries.
 A: It comes with either soup or salad and a complimentary glass of wine, sir.
 B: I'll go with the spaghetti and meatballs, salad and the wine.
 A: Excellent choice ,your order will be ready soon.
-B: How soon is soon？
+B: How soon is soon?
 A: Twenty minutes?
 B: You know what? I'll just go grab a burger across the street.
