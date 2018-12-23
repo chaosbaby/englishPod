@@ -1,0 +1,8 @@
+A: Oh great! This stupid computer froze again! That's the third time today! Hey Samuel can you come take a look at my PC？ Its acting up again. It must have a virus or something.
+B: Just give me a second; I'll be right up.
+B: I ran a virus scan on your computer, and it turns out you have a lot of infected files!
+A: But I'm quite careful when I'm browsing the Internet, I have no idea how I could have picked a virus.
+B: Well, you have to make sure that your anti-virus software is update regularly; yours wasn't up to date, that's probably what was causing your problems.
+A: OK, Anything else?
+B: Try not to kick or hit the computer.
+A: Um Year, sorry about that.
