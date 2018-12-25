@@ -1,0 +1,9 @@
+A: Hello, Fairbrook Consulting, how may I help you?
+B: Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms.Mcnealy.
+A: Certainly, what day were you think of?
+B: How's Thursday? Dose she have any time available then?
+A: Um... Let me double check ... Unfortunately, she's booked solid on Thursday, how does next Monday work for you?
+B: Actually, I've got something scheduled on Monday. Can she do on Tuesday?
+A: Sure, Tuesday's perfect. May I ask where you're calling from?
+B: Sure, Merton Financial Advisors.
+A: Oh, actually, Tuesday's no good. Sorry about that.
