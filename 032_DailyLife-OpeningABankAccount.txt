@@ -1,0 +1,10 @@
+A: Next, please。 May I help you，sir?
+B: Hello, yes, I'd like to open a bank account.
+A: Certainly, I can help you with that. What type of account would you like to open? A chequing or savings account?
+B: What features do they offer?
+A: Well, if you just take a look here, see, with our chequing account, you can have unlimited daily transactions for a small monthly fee, and our saving account have a higher interest rate, but you must carry a minimum balance of $10,000 dollars.
+B: I see, well, I think I'm more interested in a chequing account; I like to have a easy access to my money.
+A: Alright, then, with the chequing account you'll be issued a debit card and check book. Will you require overdraft protection? There is an extra fee for that.
+B: No, that wouldn't be necessary.
+A: In that case, I'll get you to fill out this paperwork; I'll need you social insurance number, and two pieces of government ID. If you could just sign here, and here, and here; we'll be all set. Would you like to make a deposit today?
+B: Yes, I'd like to deposit one billion dollars.
