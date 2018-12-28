@@ -1,0 +1,9 @@
+A: Good evening. Pizza House. This is Marty speaking. May I take you order?
+B: Um yes... I'd like a medium pizza with pepperoni, olives, and extra cheese.
+A: We have a two-for-one special on large pizzas. Would you like a large pizza instead?
+B: Sure that sound good.
+A: Great! Would you like you second pizza to be the same as the first?
+B: No, make the second one with ham, pineapple and green peppers. Oh, and make it thin crust.
+A: Okay, thin crust. You total is $21.50 and you order will arrive in thirty minutes or it's free!
+B: Perfect. Thank you. Bye...
+A: Sir, wait! I need your address!
