@@ -1,0 +1,8 @@
+Customer: So can you fix it?
+Sales Clerk: I'm sorry sir. This computer is not broken or damaged. It's just simply too old! That's why your programs and applications are running slow. There really isn't much I can do.
+Customer: What do you mean? I bought this computer just three years ago!
+Sales Clerk: Yes, but technology is ever changing and technology is becoming obsolete faster and faster!
+Customer: OK, I know where this is going. How much will it cost me to get a new computer.
+Sales Clerk: Well, this desktop over here is our latest model. It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte. Of course, it includes a mouse, keyboard and desk speakers.
+Customer: I have no idea what you are talking about. I just want to know if it's good and if I will be able to play solitaire without the computer crashing or freezing all the time!
+Sales Clerk: This PC is top of the line and I guarantee it will never freeze! If it does, we'll give you your money back!

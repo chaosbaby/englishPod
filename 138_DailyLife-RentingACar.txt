@@ -1,0 +1,11 @@
+Man: Hi, I made a reservation for a mid-size vehicle. The name is Jimmy Fox.
+Agent: I'm sorry, we have no mid-size available at the moment.
+Man: I don't understand, I made a reservation, do you have my reservation?
+Agent: Yes, we do, unfortunately we ran out of cars.
+Man: But the reservation keeps the car here. That's why you have the reservation.
+Agent: I know why we have reservations.
+Man: I don't think you do. If you did, I'd have a car. See, you know how to take the reservation, you just don't know how to hold the reservation and that's really the most important part of the reservation, the holding. Anybody can just take them.
+Agent: But we do have a compact or an SUV if you'd like.
+Man: Fine. I'll take the compact.
+Agent: Alright. We have a blue Ford Focus for you Mr. Fox. Would you like insurance?
+Man: Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.
