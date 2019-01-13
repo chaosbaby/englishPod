@@ -1,0 +1,13 @@
+Butcher: Hi. What can I do for you?
+Gina: I'd like a half a pound of ground beef, please.
+Butcher: Good choice! Our ground beef is extra lean, I you know what I mean.
+Gina: Could I also have half a dozen pork chops and two pounds of boneless chicken breasts?
+Butcher: No, no no no chicken breasts at the moment, but we have some nice chicken thighs.
+Gina: No, that won't do. I'll take this smoked ham you have here.
+Butcher: Okay, is there anything else?
+Gina: Do you have any other cold cuts? Is this salami and bologna you have here?
+Butcher: Yes! It's very fine meat! Made it myself...
+Gina: Sounds good. Okay, that's it.
+Butcher: Wait! We have T-bone, rib eye, and sirloin steaks... They are very fresh! Just came from the slaughter home...
+Gina: Mmm... No that's okay, really. I think that's all for today.
+Butcher: Okay. That will be thirty-four dollars and fifty cents.
